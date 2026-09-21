@@ -1,0 +1,6 @@
+{
+  "name": "نوێژەکانم - My Prayers",
+  "description": "بەرنامەی نوێژەکانم بۆ کاتەکانی بانگ لە شارەکانی کوردستان، ئەزکارەکان، قیبلەنما، ٩٩ ناوی خودا، تەسبیح و دەنگی بانگبێژان",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

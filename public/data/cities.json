@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 77359,
+    "nameEn": "Erbil",
+    "nameKu": "هەولێر",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.191196,
+    "lon": 44.009962,
+    "qibla": 195.0
+  },
+  {
+    "id": 77382,
+    "nameEn": "Sulaymaniyah",
+    "nameKu": "سلێمانی",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.557811,
+    "lon": 45.423328,
+    "qibla": 200.6
+  },
+  {
+    "id": 77340,
+    "nameEn": "Duhok",
+    "nameKu": "دهۆک",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.864459,
+    "lon": 42.952253,
+    "qibla": 190.8
+  },
+  {
+    "id": 77385,
+    "nameEn": "Kirkuk",
+    "nameKu": "کەرکووک",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.464938,
+    "lon": 44.38188,
+    "qibla": 197.1
+  },
+  {
+    "id": 77396,
+    "nameEn": "Halabja",
+    "nameKu": "هەڵەبجە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.175189,
+    "lon": 45.986108,
+    "qibla": 203.1
+  },
+  {
+    "id": 77453,
+    "nameEn": "Abu Ghraib",
+    "nameKu": "Abu Ghraib",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.30563,
+    "lon": 44.18477,
+    "qibla": 199.1
+  },
+  {
+    "id": 77457,
+    "nameEn": "Ad Dujayl",
+    "nameKu": "Ad Dujayl",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.84667,
+    "lon": 44.23444,
+    "qibla": 198.5
+  },
+  {
+    "id": 166450,
+    "nameEn": "Al Bussayyah",
+    "nameKu": "Al Bussayyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 30.123227,
+    "lon": 46.11629,
+    "qibla": 214.5
+  },
+  {
+    "id": 166451,
+    "nameEn": "Al Duloiya",
+    "nameKu": "Al Duloiya",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.072531,
+    "lon": 44.255914,
+    "qibla": 198.3
+  },
+  {
+    "id": 166452,
+    "nameEn": "Al Fajr",
+    "nameKu": "Al Fajr",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.916328,
+    "lon": 45.968556,
+    "qibla": 209.1
+  },
+  {
+    "id": 77439,
+    "nameEn": "Al Hashimiyah",
+    "nameKu": "Al Hashimiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.36351,
+    "lon": 44.66011,
+    "qibla": 202.6
+  },
+  {
+    "id": 166453,
+    "nameEn": "Al Qayyarah",
+    "nameKu": "Al Qayyarah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.798548,
+    "lon": 43.292226,
+    "qibla": 192.8
+  },
+  {
+    "id": 77412,
+    "nameEn": "Al Qurnah",
+    "nameKu": "Al Qurnah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.01547,
+    "lon": 47.43362,
+    "qibla": 217.2
+  },
+  {
+    "id": 166454,
+    "nameEn": "Al Salman",
+    "nameKu": "Al Salman",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 30.505771,
+    "lon": 44.538646,
+    "qibla": 206.1
+  },
+  {
+    "id": 166455,
+    "nameEn": "Al Shirqat",
+    "nameKu": "Al Shirqat",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.511795,
+    "lon": 43.221356,
+    "qibla": 192.8
+  },
+  {
+    "id": 166456,
+    "nameEn": "Al Zab",
+    "nameKu": "Al Zab",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.266886,
+    "lon": 43.453002,
+    "qibla": 193.9
+  },
+  {
+    "id": 77405,
+    "nameEn": "Al-Faw",
+    "nameKu": "Al-Faw",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 29.97421,
+    "lon": 48.47309,
+    "qibla": 224.3
+  },
+  {
+    "id": 77428,
+    "nameEn": "Al-Hayy",
+    "nameKu": "Al-Hayy",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.17419,
+    "lon": 46.04345,
+    "qibla": 208.8
+  },
+  {
+    "id": 166457,
+    "nameEn": "Al-Khidhir",
+    "nameKu": "Al-Khidhir",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.198962,
+    "lon": 45.539424,
+    "qibla": 209.0
+  },
+  {
+    "id": 166458,
+    "nameEn": "Al-Kifl",
+    "nameKu": "Al-Kifl",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.229281,
+    "lon": 44.381858,
+    "qibla": 201.7
+  },
+  {
+    "id": 166460,
+    "nameEn": "Al-Nukhib",
+    "nameKu": "Al-Nukhib",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.041363,
+    "lon": 42.255485,
+    "qibla": 192.1
+  },
+  {
+    "id": 166461,
+    "nameEn": "Albaghdadi",
+    "nameKu": "Albaghdadi",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.877516,
+    "lon": 42.531084,
+    "qibla": 191.5
+  },
+  {
+    "id": 166462,
+    "nameEn": "Ali Al-Garbi",
+    "nameKu": "Ali Al-Garbi",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.464363,
+    "lon": 46.686078,
+    "qibla": 210.6
+  },
+  {
+    "id": 166463,
+    "nameEn": "Amiriyat Fallujah",
+    "nameKu": "Amiriyat Fallujah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.164551,
+    "lon": 43.864545,
+    "qibla": 198.0
+  },
+  {
+    "id": 166464,
+    "nameEn": "Azim Castle",
+    "nameKu": "Azim Castle",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.485342,
+    "lon": 44.500766,
+    "qibla": 198.7
+  },
+  {
+    "id": 77440,
+    "nameEn": "Aziziyah",
+    "nameKu": "Aziziyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.90941,
+    "lon": 45.06359,
+    "qibla": 203.3
+  },
+  {
+    "id": 166465,
+    "nameEn": "Baa'j",
+    "nameKu": "Baa'j",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.043775,
+    "lon": 41.71572,
+    "qibla": 186.9
+  },
+  {
+    "id": 77470,
+    "nameEn": "Baiji",
+    "nameKu": "Baiji",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.92915,
+    "lon": 43.48878,
+    "qibla": 194.3
+  },
+  {
+    "id": 166466,
+    "nameEn": "Bald Ruz",
+    "nameKu": "Bald Ruz",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.68817,
+    "lon": 45.067676,
+    "qibla": 202.0
+  },
+  {
+    "id": 166467,
+    "nameEn": "Essaouira",
+    "nameKu": "Essaouira",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.925587,
+    "lon": 44.771258,
+    "qibla": 202.1
+  },
+  {
+    "id": 166500,
+    "nameEn": "Gokhlan",
+    "nameKu": "Gokhlan",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.711501,
+    "lon": 46.086535,
+    "qibla": 202.6
+  },
+  {
+    "id": 166468,
+    "nameEn": "Habbaniyah",
+    "nameKu": "Habbaniyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.381662,
+    "lon": 43.582464,
+    "qibla": 196.5
+  },
+  {
+    "id": 77447,
+    "nameEn": "Hindiyah",
+    "nameKu": "Hindiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.54671,
+    "lon": 44.22765,
+    "qibla": 200.5
+  },
+  {
+    "id": 166470,
+    "nameEn": "Jalawla",
+    "nameKu": "Jalawla",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.2739,
+    "lon": 45.16608,
+    "qibla": 201.5
+  },
+  {
+    "id": 77458,
+    "nameEn": "Khalis",
+    "nameKu": "Khalis",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.85118,
+    "lon": 44.52047,
+    "qibla": 199.6
+  },
+  {
+    "id": 166471,
+    "nameEn": "Kubaysah",
+    "nameKu": "Kubaysah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.592346,
+    "lon": 42.60586,
+    "qibla": 192.1
+  },
+  {
+    "id": 166472,
+    "nameEn": "Madain",
+    "nameKu": "Madain",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.099539,
+    "lon": 44.580976,
+    "qibla": 201.0
+  },
+  {
+    "id": 77446,
+    "nameEn": "Mahmudiyah",
+    "nameKu": "Mahmudiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.06221,
+    "lon": 44.36564,
+    "qibla": 200.2
+  },
+  {
+    "id": 77472,
+    "nameEn": "Mandali",
+    "nameKu": "Mandali",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.7481,
+    "lon": 45.55503,
+    "qibla": 203.8
+  },
+  {
+    "id": 77462,
+    "nameEn": "Miqdadiyah",
+    "nameKu": "Miqdadiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.97861,
+    "lon": 44.93694,
+    "qibla": 201.1
+  },
+  {
+    "id": 166473,
+    "nameEn": "Mosul Dam",
+    "nameKu": "Mosul Dam",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.630381,
+    "lon": 42.823462,
+    "qibla": 190.5
+  },
+  {
+    "id": 166474,
+    "nameEn": "Muhallabiyah",
+    "nameKu": "Muhallabiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.265894,
+    "lon": 42.706085,
+    "qibla": 190.4
+  },
+  {
+    "id": 77449,
+    "nameEn": "Musayyib",
+    "nameKu": "Musayyib",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.77872,
+    "lon": 44.29005,
+    "qibla": 200.3
+  },
+  {
+    "id": 166475,
+    "nameEn": "Numaniyah",
+    "nameKu": "Numaniyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.545093,
+    "lon": 45.407996,
+    "qibla": 205.4
+  },
+  {
+    "id": 77476,
+    "nameEn": "Qa'im",
+    "nameKu": "Qa'im",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.318649,
+    "lon": 41.15596,
+    "qibla": 185.5
+  },
+  {
+    "id": 166477,
+    "nameEn": "Qara Hanjir",
+    "nameKu": "Qara Hanjir",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.493642,
+    "lon": 44.639189,
+    "qibla": 197.9
+  },
+  {
+    "id": 166502,
+    "nameEn": "Qasre",
+    "nameKu": "Qasre",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.557804,
+    "lon": 44.827805,
+    "qibla": 197.4
+  },
+  {
+    "id": 166478,
+    "nameEn": "Rabia",
+    "nameKu": "Rabia",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.806878,
+    "lon": 42.092399,
+    "qibla": 187.9
+  },
+  {
+    "id": 166480,
+    "nameEn": "Rahhaliyah",
+    "nameKu": "Rahhaliyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.733016,
+    "lon": 43.373165,
+    "qibla": 196.4
+  },
+  {
+    "id": 77427,
+    "nameEn": "Rumaythah",
+    "nameKu": "Rumaythah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.52845,
+    "lon": 45.20377,
+    "qibla": 206.7
+  },
+  {
+    "id": 77431,
+    "nameEn": "Shamiyah",
+    "nameKu": "Shamiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.96257,
+    "lon": 44.60075,
+    "qibla": 203.2
+  },
+  {
+    "id": 77421,
+    "nameEn": "Shatrah",
+    "nameKu": "Shatrah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.40906,
+    "lon": 46.1727,
+    "qibla": 211.1
+  },
+  {
+    "id": 166481,
+    "nameEn": "Suq Al-Shuyukh",
+    "nameKu": "Suq Al-Shuyukh",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 30.894039,
+    "lon": 46.48074,
+    "qibla": 213.8
+  },
+  {
+    "id": 166482,
+    "nameEn": "Tal Afar",
+    "nameKu": "Tal Afar",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.363357,
+    "lon": 42.404328,
+    "qibla": 189.2
+  },
+  {
+    "id": 77451,
+    "nameEn": "Tarmiyah",
+    "nameKu": "Tarmiyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.67444,
+    "lon": 44.39583,
+    "qibla": 199.4
+  },
+  {
+    "id": 77349,
+    "nameEn": "Akre",
+    "nameKu": "ئاکرێ",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.740582,
+    "lon": 43.880883,
+    "qibla": 194.1
+  },
+  {
+    "id": 77353,
+    "nameEn": "Bardarash",
+    "nameKu": "بەردەڕەش",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.501899,
+    "lon": 43.584857,
+    "qibla": 193.3
+  },
+  {
+    "id": 77413,
+    "nameEn": "Basrah",
+    "nameKu": "بەسرە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 30.50667,
+    "lon": 47.791941,
+    "qibla": 220.1
+  },
+  {
+    "id": 77459,
+    "nameEn": "Baqubah",
+    "nameKu": "بەعقووبە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.752056,
+    "lon": 44.607344,
+    "qibla": 200.1
+  },
+  {
+    "id": 77452,
+    "nameEn": "Baghdad",
+    "nameKu": "بەغدا",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.34058,
+    "lon": 44.40088,
+    "qibla": 199.9
+  },
+  {
+    "id": 77469,
+    "nameEn": "Tikrit",
+    "nameKu": "تکریت",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.616302,
+    "lon": 43.672498,
+    "qibla": 195.4
+  },
+  {
+    "id": 77445,
+    "nameEn": "Hillah",
+    "nameKu": "حیللە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.476299,
+    "lon": 44.424505,
+    "qibla": 201.4
+  },
+  {
+    "id": 77471,
+    "nameEn": "Hadithah",
+    "nameKu": "حەدیسە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.13477,
+    "lon": 42.37724,
+    "qibla": 190.7
+  },
+  {
+    "id": 77485,
+    "nameEn": "Al-Hamdaniya",
+    "nameKu": "حەمدانییە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.27093,
+    "lon": 43.37758,
+    "qibla": 192.7
+  },
+  {
+    "id": 77478,
+    "nameEn": "Hawijah",
+    "nameKu": "حەویجە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.32592,
+    "lon": 43.77267,
+    "qibla": 195.0
+  },
+  {
+    "id": 77401,
+    "nameEn": "Khanaqin",
+    "nameKu": "خانەقین",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.353692,
+    "lon": 45.383898,
+    "qibla": 202.2
+  },
+  {
+    "id": 77400,
+    "nameEn": "Tuz Khurma",
+    "nameKu": "خورماتوو",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.882439,
+    "lon": 44.62512,
+    "qibla": 198.6
+  },
+  {
+    "id": 77481,
+    "nameEn": "Daquq",
+    "nameKu": "داقووق",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.13923,
+    "lon": 44.44907,
+    "qibla": 197.7
+  },
+  {
+    "id": 77381,
+    "nameEn": "Dokan",
+    "nameKu": "دۆکان",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.944303,
+    "lon": 44.967845,
+    "qibla": 198.6
+  },
+  {
+    "id": 77435,
+    "nameEn": "Diwaniyah",
+    "nameKu": "دیوانییە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.987033,
+    "lon": 44.918549,
+    "qibla": 204.5
+  },
+  {
+    "id": 77397,
+    "nameEn": "Darbandikhan",
+    "nameKu": "دەربەندیخان",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.111483,
+    "lon": 45.686889,
+    "qibla": 202.1
+  },
+  {
+    "id": 77336,
+    "nameEn": "Zakho",
+    "nameKu": "زاخۆ",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 37.147924,
+    "lon": 42.675242,
+    "qibla": 189.7
+  },
+  {
+    "id": 77467,
+    "nameEn": "Samarra",
+    "nameKu": "سامەڕا",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.1959,
+    "lon": 43.88568,
+    "qibla": 196.7
+  },
+  {
+    "id": 77425,
+    "nameEn": "Samawah",
+    "nameKu": "سەماوە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.315245,
+    "lon": 45.279893,
+    "qibla": 207.5
+  },
+  {
+    "id": 154893,
+    "nameEn": "Sinjar",
+    "nameKu": "شنگال",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.32092,
+    "lon": 41.87542,
+    "qibla": 187.4
+  },
+  {
+    "id": 77490,
+    "nameEn": "Al-Shikhan",
+    "nameKu": "شێخان",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.69595,
+    "lon": 43.35202,
+    "qibla": 192.3
+  },
+  {
+    "id": 77475,
+    "nameEn": "Anah",
+    "nameKu": "عانە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.36321,
+    "lon": 41.99821,
+    "qibla": 189.0
+  },
+  {
+    "id": 77418,
+    "nameEn": "Amarah",
+    "nameKu": "عەمارە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.83588,
+    "lon": 47.14399,
+    "qibla": 213.9
+  },
+  {
+    "id": 77456,
+    "nameEn": "Al-Fallujah",
+    "nameKu": "فەلووجە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.34913,
+    "lon": 43.78599,
+    "qibla": 197.4
+  },
+  {
+    "id": 77354,
+    "nameEn": "Qasrok",
+    "nameKu": "قەسرۆک",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.700082,
+    "lon": 43.598164,
+    "qibla": 193.1
+  },
+  {
+    "id": 77379,
+    "nameEn": "Qaladiza",
+    "nameKu": "قەڵادزێ",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.182552,
+    "lon": 45.129412,
+    "qibla": 198.8
+  },
+  {
+    "id": 77482,
+    "nameEn": "Mosul",
+    "nameKu": "مووسڵ",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.349836,
+    "lon": 43.162277,
+    "qibla": 191.9
+  },
+  {
+    "id": 77370,
+    "nameEn": "Makhmur",
+    "nameKu": "مەخموور",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.774976,
+    "lon": 43.581016,
+    "qibla": 193.9
+  },
+  {
+    "id": 77414,
+    "nameEn": "Nasiriyah",
+    "nameKu": "ناسرییە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.03942,
+    "lon": 46.267116,
+    "qibla": 212.5
+  },
+  {
+    "id": 77450,
+    "nameEn": "Najaf",
+    "nameKu": "نەجەف",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.023891,
+    "lon": 44.331035,
+    "qibla": 201.8
+  },
+  {
+    "id": 77464,
+    "nameEn": "Hit",
+    "nameKu": "هیت",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.63664,
+    "lon": 42.82768,
+    "qibla": 193.0
+  },
+  {
+    "id": 77389,
+    "nameEn": "Penjwen",
+    "nameKu": "پێنجوێن",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.626856,
+    "lon": 45.944991,
+    "qibla": 202.3
+  },
+  {
+    "id": 77384,
+    "nameEn": "Chamchamal",
+    "nameKu": "چەمچەماڵ",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 35.52918,
+    "lon": 44.821973,
+    "qibla": 198.5
+  },
+  {
+    "id": 77376,
+    "nameEn": "Ranya",
+    "nameKu": "ڕانیە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.239021,
+    "lon": 44.885666,
+    "qibla": 197.9
+  },
+  {
+    "id": 77477,
+    "nameEn": "Rawa",
+    "nameKu": "ڕاوە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.479351,
+    "lon": 41.914687,
+    "qibla": 188.6
+  },
+  {
+    "id": 77493,
+    "nameEn": "Rutba",
+    "nameKu": "ڕوتبە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 33.03718,
+    "lon": 40.28586,
+    "qibla": 182.1
+  },
+  {
+    "id": 77460,
+    "nameEn": "Ramadi",
+    "nameKu": "ڕەمادی",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 31.038832,
+    "lon": 46.268146,
+    "qibla": 212.5
+  },
+  {
+    "id": 77399,
+    "nameEn": "Kifri",
+    "nameKu": "کفری",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.688381,
+    "lon": 44.958424,
+    "qibla": 200.1
+  },
+  {
+    "id": 77430,
+    "nameEn": "Kut",
+    "nameKu": "کووت",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.512042,
+    "lon": 45.840709,
+    "qibla": 207.2
+  },
+  {
+    "id": 77372,
+    "nameEn": "Koysinjaq",
+    "nameKu": "کۆیە",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 36.078097,
+    "lon": 44.628836,
+    "qibla": 197.2
+  },
+  {
+    "id": 77443,
+    "nameEn": "Karbala",
+    "nameKu": "کەربەلا",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 32.603635,
+    "lon": 44.009728,
+    "qibla": 199.4
+  },
+  {
+    "id": 77398,
+    "nameEn": "Kalar",
+    "nameKu": "کەلار",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "lat": 34.630423,
+    "lon": 45.32757,
+    "qibla": 201.5
+  },
+  {
+    "id": 77819,
+    "nameEn": "Baneh",
+    "nameKu": "بانە",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 35.9975,
+    "lon": 45.8853,
+    "qibla": 201.6
+  },
+  {
+    "id": 154907,
+    "nameEn": "Sanandaj",
+    "nameKu": "سنە",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 35.3144,
+    "lon": 46.9923,
+    "qibla": 206.2
+  },
+  {
+    "id": 77817,
+    "nameEn": "Saqqez",
+    "nameKu": "سەقز",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 36.24992,
+    "lon": 46.2735,
+    "qibla": 202.5
+  },
+  {
+    "id": 77768,
+    "nameEn": "Marivan",
+    "nameKu": "مەریوان",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 35.527,
+    "lon": 46.1763,
+    "qibla": 203.2
+  },
+  {
+    "id": 166379,
+    "nameEn": "Urmia",
+    "nameKu": "ورمێ",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 37.546624,
+    "lon": 45.071091,
+    "qibla": 197.2
+  },
+  {
+    "id": 77820,
+    "nameEn": "Paveh",
+    "nameKu": "پاوە",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 35.0434,
+    "lon": 46.3565,
+    "qibla": 204.5
+  },
+  {
+    "id": 77798,
+    "nameEn": "Piranshahr",
+    "nameKu": "پیرانشار",
+    "country": "Iran",
+    "countryCode": "IR",
+    "lat": 36.701,
+    "lon": 45.1413,
+    "qibla": 198.3
+  },
+  {
+    "id": 33735,
+    "nameEn": "Aachen",
+    "nameKu": "Aachen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "lat": 50.77664,
+    "lon": 6.08342,
+    "qibla": 125.5
+  },
+  {
+    "id": 166345,
+    "nameEn": "Abdali",
+    "nameKu": "Abdali",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "lat": 30.024312,
+    "lon": 47.704504,
+    "qibla": 221.3
+  },
+  {
+    "id": 16,
+    "nameEn": "Abu Dhabi",
+    "nameKu": "ئەبوزەبی",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "lat": 24.46667,
+    "lon": 54.36667,
+    "qibla": 260.1
+  },
+  {
+    "id": 166382,
+    "nameEn": "Al Asimah",
+    "nameKu": "کوەیت (پایتەخت)",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "lat": 29.3342,
+    "lon": 47.9812,
+    "qibla": 224.8
+  },
+  {
+    "id": 121257,
+    "nameEn": "Aleppo",
+    "nameKu": "حەلەب",
+    "country": "Syria",
+    "countryCode": "SY",
+    "lat": 36.20124,
+    "lon": 37.16117,
+    "qibla": 170.3
+  },
+  {
+    "id": 31370,
+    "nameEn": "Berlin",
+    "nameKu": "بەرلین",
+    "country": "Germany",
+    "countryCode": "DE",
+    "lat": 52.52437,
+    "lon": 13.41053,
+    "qibla": 136.7
+  },
+  {
+    "id": 60475,
+    "nameEn": "Birmingham",
+    "nameKu": "بێرمینگهام",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "lat": 52.48142,
+    "lon": -1.89983,
+    "qibla": 117.9
+  },
+  {
+    "id": 166346,
+    "nameEn": "Bubiyan Island",
+    "nameKu": "Bubiyan Island",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "lat": 29.796921,
+    "lon": 48.209723,
+    "qibla": 224.0
+  },
+  {
+    "id": 121364,
+    "nameEn": "Damascus",
+    "nameKu": "دیمەشق",
+    "country": "Syria",
+    "countryCode": "SY",
+    "lat": 33.5102,
+    "lon": 36.29128,
+    "qibla": 164.6
+  },
+  {
+    "id": 121179,
+    "nameEn": "Deir ez-Zor",
+    "nameKu": "Deir ez-Zor",
+    "country": "Syria",
+    "countryCode": "SY",
+    "lat": 35.33588,
+    "lon": 40.14084,
+    "qibla": 181.2
+  },
+  {
+    "id": 144633,
+    "nameEn": "Dubai",
+    "nameKu": "دوبەی",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "lat": 25.2048,
+    "lon": 55.2708,
+    "qibla": 258.2
+  },
+  {
+    "id": 166381,
+    "nameEn": "Failaka Island",
+    "nameKu": "Failaka Island",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "lat": 29.4427,
+    "lon": 48.2891,
+    "qibla": 225.5
+  },
+  {
+    "id": 121198,
+    "nameEn": "Hama",
+    "nameKu": "حەما",
+    "country": "Syria",
+    "countryCode": "SY",
+    "lat": 35.13179,
+    "lon": 36.75783,
+    "qibla": 168.1
+  },
+  {
+    "id": 30015,
+    "nameEn": "Hamburg",
+    "nameKu": "هامبۆرگ",
+    "country": "Germany",
+    "countryCode": "DE",
+    "lat": 53.5511,
+    "lon": 9.9937,
+    "qibla": 133.0
+  },
+  {
+    "id": 121304,
+    "nameEn": "Homs",
+    "nameKu": "حمس",
+    "country": "Syria",
+    "countryCode": "SY",
+    "lat": 34.72682,
+    "lon": 36.72339,
+    "qibla": 167.6
+  },
+  {
+    "id": 121148,
+    "nameEn": "Latakia",
+    "nameKu": "لازقیە",
+    "country": "Syria",
+    "countryCode": "SY",
+    "lat": 35.5407,
+    "lon": 35.7953,
+    "qibla": 164.9
+  },
+  {
+    "id": 58153,
+    "nameEn": "London",
+    "nameKu": "لەندەن",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "qibla": 119.0
+  },
+  {
+    "id": 38934,
+    "nameEn": "Munich",
+    "nameKu": "میونشن",
+    "country": "Germany",
+    "countryCode": "DE",
+    "lat": 48.13743,
+    "lon": 11.57549,
+    "qibla": 129.8
+  },
+  {
+    "id": 50276,
+    "nameEn": "Paris",
+    "nameKu": "پاریس",
+    "country": "France",
+    "countryCode": "FR",
+    "lat": 48.85341,
+    "lon": 2.3488,
+    "qibla": 119.2
+  },
+  {
+    "id": 166338,
+    "nameEn": "Salmiya",
+    "nameKu": "سالمییە",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "lat": 29.332801,
+    "lon": 48.072828,
+    "qibla": 225.1
+  },
+  {
+    "id": 166377,
+    "nameEn": "Umm Al Maradim Island",
+    "nameKu": "Umm Al Maradim Island",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "lat": 28.679733,
+    "lon": 48.651801,
+    "qibla": 229.7
+  }
+]
